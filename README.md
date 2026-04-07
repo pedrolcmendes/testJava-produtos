@@ -13,7 +13,8 @@ git clone https://github.com/pedrolcmendes/testJava-produtos.git
 
 5. Colocar a URL http://localhost:8080/produtos para testar os endpoints da API.
    Exemplo:
-   Criação do Produto
+
+Criação do Produto
 - POST http://localhost:8080/produtos 
 {
     "nome": "celular",
